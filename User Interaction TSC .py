@@ -6,7 +6,7 @@ import win32com.client as win32
 import xlrd
 
 ######### Paths ######
-ser="http://awv16tableanp01"
+ser="http://awv16tab"
 excel_book="C:/Users/sadiqmmo/PycharmProjects/untitled4/Email.xlsx"
 save_image="C:/Users/sadiqmmo/PycharmProjects/untitled4/temp.png"
 attachment_location = "C:/Users/sadiqmmo/PycharmProjects/untitled4/temp.png"
